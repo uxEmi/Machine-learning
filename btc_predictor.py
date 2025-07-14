@@ -58,3 +58,4 @@ my_input_scaled = scaler.transform(my_input)
 aux = model.predict(my_input_scaled)
 
 print(aux)
+print(':)')
